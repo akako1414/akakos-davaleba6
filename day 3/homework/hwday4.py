@@ -1,0 +1,5 @@
+name=(input( "what is your name?" ))
+age=int(input( "how old are you?" ))
+years=int(input( "how many years do u want to travel?" ))
+ageinfuture=int(input( years+age ))
+print(ageinfuture)
