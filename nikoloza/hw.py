@@ -2,5 +2,5 @@
 biujeti=300
 axali_biujeti=300+1000
 salary=200
-month=axali_biujeti:salary
+month=axali_biujeti/salary
 print(month)
