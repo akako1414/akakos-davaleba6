@@ -1,0 +1,3 @@
+html - structure
+css - visuals
+javascript - functions
