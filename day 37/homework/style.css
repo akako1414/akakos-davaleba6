@@ -1,0 +1,66 @@
+
+    
+
+
+a{
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif
+}
+
+#home{
+    padding: 10px;
+}
+ 
+
+#main-div{
+   
+    padding: 10px;
+    display: flex ;
+    justify-content: flex-end;
+    gap: 20px;
+    
+}
+
+#about{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif
+}
+
+#support{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif
+}
+
+#info{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif
+}
+
+#button{
+    border: none;
+    border-radius: 20px;
+    background-color: hsl(251, 98%, 48%);
+    color: beige;
+    font-family:'Times New Roman', Times, serif
+}
+
+#paragraph{
+    display:flex;
+    font-family:'Times New Roman', Times, serif
+
+}
+
+#h2{
+
+    margin: 100px ;
+    position: fixed;
+    font-family:'Times New Roman', Times, serif
+}
+
+#img{
+    position :absolute;
+    text-align: center;
+    margin-left: 960px;
+    margin-top: 200px;
+}
+
